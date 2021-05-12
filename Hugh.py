@@ -132,5 +132,5 @@ async def stop(ctx):
     else:
         await ctx.send("Meow! Music is not playing!")
 
-bot.run('ODM2NzI3OTIwNTIwMjAwMjIz.YIiNmQ.UhGMX5X05Li9HRVTjjLbpG1Oeq0')
+bot.run('#token')
 # Token
