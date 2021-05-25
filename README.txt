@@ -12,4 +12,4 @@ Commands:
 >sleep : Hugh goes to bed.
 
 
-Made by Olivia Hyeon, Scott Park
+
